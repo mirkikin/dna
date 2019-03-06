@@ -1,0 +1,5 @@
+#Lambda Function Project Metadata
+#Wed Mar 06 16:06:51 MST 2019
+lastDeploymentFunctionName=DnaFunction
+lastDeploymentBucketName=sociospalhie
+lastDeploymentEndpoint=https\://lambda.us-west-1.amazonaws.com
